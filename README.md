@@ -4,13 +4,13 @@ This hooks add capability your codeigniter applications to minify html output (c
 
 It's easy to implement this hooks to your codeigniter applications by following this simple steps:
 
-1. Open <b>config.php</b> in ./application/config/config.php, find & change <b>$config['enable_hooks'] = FALSE;</b> to <b>$config['enable_hooks'] = TRUE;</b>
-2. Copy and paste <b>hooks.php</b> file in ./application/config/hooks.php</b>
+1. Open <b>config.php</b> in <b>./application/config/config.php</b>, find & change <b>$config['enable_hooks'] = FALSE;</b> to <b>$config['enable_hooks'] = TRUE;</b>
+2. Copy and paste <b>hooks.php</b> file in <b>./application/config/hooks.php</b>
 3. Copy and paste <b>htmlminify.php</b> in <b>./application/hooks/htmlminify.php</b>
 
-This is an example of minified html output from codeigniter default page:
+<2>This is an example of minified html output from codeigniter default page:</h2>
 
-From:
+<b>From:</b>
 
 ```html
 <!DOCTYPE html>
