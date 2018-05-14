@@ -8,7 +8,7 @@ It's easy to implement this hooks to your codeigniter applications by following 
 2. Copy and paste <b>hooks.php</b> file in <b>./application/config/hooks.php</b>
 3. Copy and paste <b>htmlminify.php</b> in <b>./application/hooks/htmlminify.php</b>
 
-<2>This is an example of minified html output from codeigniter default page:</h2>
+<h2>This is an example of minified html output from codeigniter default page:</h2>
 
 <b>From:</b>
 
